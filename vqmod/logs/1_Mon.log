@@ -1,0 +1,14 @@
+---------- Date: 2015-10-26 23:38:33 ~ IP : ::1 ----------
+REQUEST URI : /mircatu/index.php?route=product/product&path=20_26&product_id=50
+MOD DETAILS:
+   modFile   : C:\xampp\htdocs\mircatu\vqmod/xml/multimerch_core_productpage.xml
+   id        : MultiMerch Core Product Page Mods
+   version   : 
+   vqmver    : 
+   author    : http://multimerch.com/
+
+File Name    : catalog/view/theme/vitalia/template/product/product.tpl(1)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): <li class="active"><a href="#tab-description" data-toggle="tab"><?php echo $tab_description; ?></a></li>
+----------------------------------------------------------------------
+
+

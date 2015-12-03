@@ -1,0 +1,14 @@
+---------- Date: 2015-11-24 13:33:33 ~ IP : ::1 ----------
+REQUEST URI : /mircatu/admin/index.php?route=sale/order/info&token=fffe0cb15cc1bee49954719df3c9c142&order_id=3
+MOD DETAILS:
+   modFile   : C:\xampp\htdocs\mircatu\vqmod/xml/multimerch_core_admin.xml
+   id        : MultiMerch Core Admin Mods
+   version   : 
+   vqmver    : 
+   author    : http://multimerch.com/
+
+File Name    : admin/view/template/sale/order_info.tpl(2)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): <td colspan="4" class="text-right"><?php echo $totals['title']; ?>:</td>
+----------------------------------------------------------------------
+
+
